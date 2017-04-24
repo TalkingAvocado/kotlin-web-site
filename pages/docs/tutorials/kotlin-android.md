@@ -40,14 +40,14 @@ Name the activity:
 
 We've created a new project with one Java activity that was generated for us.
 
-But now we'd like to add some code in Kotlin. The easiest way to start using Kotlin is to convert automatically Java activity into Kotlin one.
+But now we'd like to add some code in Kotlin. The easiest way to start using Kotlin is to automatically convert a Java activity into a Kotlin one.
 Please note that anytime instead of looking through documentation for a new way to express an old pattern, 
 you can write it in Java, then copy-paste Java code into Kotlin file, and Intellij (or Android Studio) will suggest to convert it. 
 
 
 #### Converting Java code to Kotlin
 
-Open MainActivity.java file. Then invoke action **Convert Java File to Kotlin File**. You can do it by several ways.
+Open MainActivity.java file. Then invoke action **Convert Java File to Kotlin File**. You can do it several ways.
 The easiest one is to invoke [Find Action](https://www.jetbrains.com/idea/help/navigating-to-action.html) and start typing an action name (like in a screencast below). 
 Alternatively we can call this option via the _Code \| Convert Java File to Kotlin File_  menu entry or by using the corresponding shortcut (we can find it at the menu entry).
  
